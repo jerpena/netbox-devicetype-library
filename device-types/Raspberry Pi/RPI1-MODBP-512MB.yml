@@ -1,0 +1,16 @@
+---
+manufacturer: Raspberry Pi
+model: Raspberry Pi (1) Model B+ 512MB
+slug: rpi1-modbp-512mb
+part_number: RPI1-MODBP-512MB
+comments: (Datasheet)[https://cdn-shop.adafruit.com/datasheets/pi-specs.pdf]
+u_height: 0
+is_full_depth: false
+interfaces:
+  - name: eth0
+    type: 100base-tx
+power-ports:
+  - name: USB
+    type: usb-micro-b
+  - name: GPIO
+    type: other

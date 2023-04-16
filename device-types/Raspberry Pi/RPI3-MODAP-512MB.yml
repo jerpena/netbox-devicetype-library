@@ -1,0 +1,16 @@
+---
+manufacturer: Raspberry Pi
+model: Raspberry Pi 3 Model A+ 512MB
+slug: rpi3-modap-512mb
+part_number: RPI3-MODAP-512MB
+comments: (Datasheet)[https://www.mouser.com/datasheet/2/635/raspberry_pi_3_a_plus_product_brief-3048982.pdf]
+u_height: 0
+is_full_depth: false
+interfaces:
+  - name: wlan0
+    type: ieee802.11ac
+power-ports:
+  - name: USB
+    type: usb-micro-b
+  - name: GPIO
+    type: other

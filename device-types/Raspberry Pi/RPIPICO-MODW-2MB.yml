@@ -1,0 +1,16 @@
+---
+manufacturer: Raspberry Pi
+model: Raspberry Pi Pico Model W 2MB
+slug: rpipico-modw-2mb
+part_number: RPIPICO-MODW-2MB
+comments: (Datasheet)[https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf]
+u_height: 0
+is_full_depth: false
+interfaces:
+  - name: wlan0
+    type: ieee802.11n
+power-ports:
+  - name: USB
+    type: usb-micro-b
+  - name: GPIO
+    type: other

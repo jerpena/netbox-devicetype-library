@@ -3,6 +3,7 @@ manufacturer: Raspberry Pi
 model: Raspberry Pi 4 Model B 8GB
 slug: rpi4-modb-8gb
 part_number: RPI4-MODB-8GB
+comments: (Datasheet)[https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf]
 u_height: 0
 is_full_depth: false
 interfaces:
@@ -11,5 +12,7 @@ interfaces:
   - name: wlan0
     type: ieee802.11ac
 power-ports:
-  - name: PSU
+  - name: USB
     type: usb-c
+  - name: GPIO
+    type: other

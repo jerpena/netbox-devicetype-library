@@ -1,0 +1,16 @@
+---
+manufacturer: Raspberry Pi
+model: Raspberry Pi Zero Model 2W 512MB
+slug: rpi0-mod2w-512mb
+part_number: RPI0-MOD2W-512MB
+comments: (Datasheet)[https://datasheets.raspberrypi.com/rpizero2/raspberry-pi-zero-2-w-product-brief.pdf]
+u_height: 0
+is_full_depth: false
+interfaces:
+  - name: wlan0
+    type: ieee802.11n
+power-ports:
+  - name: USB
+    type: usb-micro-b
+  - name: GPIO
+    type: other
